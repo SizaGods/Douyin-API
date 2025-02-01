@@ -7,7 +7,7 @@ Are you ready to elevate your Douyin (抖音) experience? I am offering a **prem
 ## Features of the API  
 
 ### 1. Seamless Integration
-- **Easy Setup**: The source code is structured for easy integration into your applications, saving you time and effort.
+- **Easy Setup**: The source code is structured for easy integration into your applications, saving you time and effort. 
 - **Comprehensive Documentation**: Includes well-explained documentation to guide you in leveraging the API features efficiently.
 
 ### 2. Key Functionalities 
