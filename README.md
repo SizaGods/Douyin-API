@@ -8,7 +8,7 @@ Are you ready to elevate your Douyin (抖音) experience? I am offering a **prem
 
 ### 1. Seamless Integration 
 - **Easy Setup**: The source code is structured for easy integration into your applications, saving you time and effort. 
-- **Comprehensive Documentation**: Includes well-explained documentation to guide you in leveraging the API features efficiently.
+- **Comprehensive Documentation**: Includes well-explained documentation to guide you in leveraging the API features efficiently. 
 
 ### 2. Key Functionalities 
 - **Video Uploading**: Instantly upload videos to Douyin with just a few lines of code.
